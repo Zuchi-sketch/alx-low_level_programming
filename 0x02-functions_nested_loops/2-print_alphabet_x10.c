@@ -4,14 +4,9 @@
  *
  * print_alphabet_x10 - prints alphabet 10 times
  *
- * Return:void
- *
+ * Return: void
  */
-
-
-
 void print_alphabet_x10(void)
-
 {
 	char c;
 	int i = 0;
