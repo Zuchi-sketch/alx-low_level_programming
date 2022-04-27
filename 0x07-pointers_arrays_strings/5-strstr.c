@@ -16,8 +16,7 @@ char *_strstr(char *haystack, char *needle)
 	while (*h)
 	{
 		n = needle;
-		h = haystack;
-		
+		h = haystack;		
 		while (*n)
 		{
 			if (*h == *n)
