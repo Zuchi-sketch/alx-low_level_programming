@@ -7,7 +7,6 @@
  *
  * Return: pointer to the beginning of the located substring, or NULL, if substring is not found
  */
-
 char *_strstr(char *haystack, char *needle)
 {
 	unsigned int i = 0, j = 0;
